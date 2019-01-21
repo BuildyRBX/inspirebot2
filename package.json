@@ -1,4 +1,14 @@
 {
+  "name": "sentry"
+  "description": "bot"
+  "version": "1.0.0"
+  "main": "index.js"
+  "scripts": {
+    "start": "node index.js"
+},
+"engines": {
+    "node": "10.3.0"
+},
   "dependencies": {
     "discord.js": "hydrabolt/discord.js#a46f606170755b6bf024256625544040ced6921c",
     "discord.js-commando": "Gawdl3y/discord.js-commando#master",
